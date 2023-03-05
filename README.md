@@ -6,9 +6,9 @@ Staff Scientist @ [Pacific Northwest National Laboratory](https://pnnl.gov) <br>
 
 ## 👩🏼‍💻 Experience
 
-<img src="https://github.com/bmitrauncc/bmitrauncc.github.io/tree/main/files/National_Labs.png?raw=true" align="right" width="450px"/>
+<img src="https://github.com/bmitrauncc/bmitrauncc.github.io/raw/main/files/National_Labs.png?raw=true" align="right" width="450px"/>
 
-**Staff Scientist** @ [PNNL](https://pnnl.gov) _(Feb 2022 - Present)_ <br>
+**Staff Scientist** @ [Pacific Northwest National Laboratory](https://pnnl.gov) _(Feb 2022 - Present)_ <br>
 
 PNNL is one of the several Department of Energy funded laboratories that works on cutting edge research.
 <br clear="left"/>
@@ -20,7 +20,7 @@ PNNL is one of the several Department of Energy funded laboratories that works o
   - **_Technologies used:_** PSCAD, Python, MATLAB/Simulink, OPAL-RT, OpenPDC.
 <br><br>
 
-**Postdoctoral Research Fellow** @ [INL](https://inl.gov) _(Mar 2020 - Feb 2022)_ <br>
+**Postdoctoral Research Fellow** @ [Idaho National Laboratory](https://inl.gov) _(Mar 2020 - Feb 2022)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
