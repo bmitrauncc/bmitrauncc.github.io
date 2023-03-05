@@ -8,6 +8,7 @@ Staff Scientist @ [Pacific Northwest National Laboratory](https://pnnl.gov) <br>
 
 <img src="https://github.com/bmitrauncc/bmitrauncc.github.io/raw/main/files/National_Labs.png?raw=true" align="right" width="450px"/>
 <br clear="left"/>
+
 **Staff Scientist** @ [Pacific Northwest National Laboratory](https://pnnl.gov) _(Feb 2022 - Present)_ <br>
 
 PNNL is one of the several Department of Energy funded laboratories that works on cutting edge research.
@@ -172,6 +173,7 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 ## 💬 Languages
 
 🇺🇸 **English**: Native <br>
-🇩🇪 **German**: B1
+🇩🇪 **Bengali**: Native
+HN **Hindi**: 
 <br><br>
 
