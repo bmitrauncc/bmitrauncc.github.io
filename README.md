@@ -18,12 +18,12 @@ PNNL is one of the several Department of Energy funded laboratories that works o
   - Protection Challenges in Transmission System due to High IBR penetration.
   - High-Power and Flexible Low-Frequency AC Transmission for Renewable Integration.
   - Assessing the gaps related to Hydropower modelling.
-  - **_Technologies used:_** PSCAD, Python, MATLAB/Simulink, OPAL-RT, OpenPDC.
+  - **_Technologies used:_** PSCAD, Python, MATLAB/Simulink, FORTRAN, OPAL-RT, OpenPDC.
 <br><br>
 
 **Postdoctoral Research Fellow** @ [Idaho National Laboratory](https://inl.gov) _(Mar 2020 - Feb 2022)_ <br>
   - Development of case-studies to assess the energy arbitrage of installation of variable renewable generation resources for farmers that helps them to participate in energy markets [Irrigation Viz](https://irrigationviz.pnnl.gov/).
-  - Lead developer for an opensource tool to estimate turbine efficiency and hydropower potential [HydroGenerate](https://github.com/IdahoLabResearch/HydroGenerate)
+  - Lead developer for an opensource tool to estimate turbine efficiency and hydropower potential [HydroGenerate](https://github.com/IdahoLabResearch/HydroGenerate).
   - Study and quantify reports on the impact on hydropower generating units through participation invariable generation. 
     Development of case studies to discuss participation of hydro power plants in flexible operation.
     Prepare a report for DOE to issue future calls for participation from the industry.
@@ -32,8 +32,29 @@ PNNL is one of the several Department of Energy funded laboratories that works o
   - **_Technologies used:_** Python, RTDS, MATLAB/Simulink.
 <br><br>
 
+**Ph.D. Intern** @ [Pacific Northwest National Laboratory](https://pnnl.gov) <br>
+
+_(June 2019 - Aug 2019)_<br>
+
+- Customized model generation of smart buildings for efficient grid enhancement services using Machine Learning and data driven approaches.
+Validate physics-based model with real field data to evaluate the percentage error which can be better resolved by developing a customized building specific model using Variational Auto Encoder (VAE) and 
+Generalized Adversarial Networks (GAN). The methodology involved dealing with large datasets for multiple buildings which represented a general category. Data augmentation and learning methods were 
+utilized to develop a predictor engine model which could generate power consumption of the buildings without the availability of training datasets. Methods like LSTM were utilized in the development 
+of time series predictor model, but the performance feature of VAE outperformed the other underlying models.
+
+_(May 2018 - Aug 2018)_<br>
+
+- Development of a new algorithm using Deep Learning skills associated with different distance preservation techniques when   projecting a data from a high dimension to a lower dimensional space, using global 
+distance preservation between data points. Biological experiments have many variables considering their sample, laboratory environment etc. These experiments are costly to be performed on a repetitive basis,
+the goal was development of a baseline algorithm which through deep learning, reinforcement learning etc., could predict such outcomes of large datasets of experiments and compare it with one such performed 
+experiment.
+
+_(June 2017 - Aug 2017)_<br>
+- Development of a PNNL taxonomy feeder with composite load models for commercial buildings and designed a protection scheme in FORTRAN to reduce the effect of FIDVR conditions due to the stalling of Induction Motors. 
+The test system was modelled and tested in PSCAD.
+
 **Graduate Research Assistant** @ [UNC Charlotte](https://charlotte.edu) _(Aug 2015 - Dec 2019)_ <br>
-Early-stage startup focused on automated API testing and NLP.
+Working as a Research and Teaching assistant working under Professor Badrul Chowdhury.
   - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
   - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
   - Ownership of Meeshkan's documentation and technical blog
