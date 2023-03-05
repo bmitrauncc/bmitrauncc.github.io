@@ -7,11 +7,11 @@ Staff Scientist @ [Pacific Northwest National Laboratory](https://pnnl.gov) <br>
 ## 👩🏼‍💻 Experience
 
 <img src="https://github.com/bmitrauncc/bmitrauncc.github.io/raw/main/files/National_Labs.png?raw=true" align="right" width="450px"/>
-
+<br clear="left"/>
 **Staff Scientist** @ [Pacific Northwest National Laboratory](https://pnnl.gov) _(Feb 2022 - Present)_ <br>
 
 PNNL is one of the several Department of Energy funded laboratories that works on cutting edge research.
-<br clear="left"/>
+
   - Harmonic Enhanced Load Modelling (HELM) - Development of non-linear house loads to 
   study their homogeneous and heterogeneous interaction with distribution transformer [Repo](https://github.com/pnnl/Continual-Load-Modelling-HELM).
   - Protection Challenges in Transmission System due to High IBR penetration.
