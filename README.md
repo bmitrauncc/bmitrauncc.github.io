@@ -2,7 +2,7 @@
 
 Staff Scientist @ [Pacific Northwest National Laboratory](https://pnnl.gov) <br>
 
-[Email](mailto:bhaskar.mitra@pnnl.gov) / [Google Scholar](https://scholar.google.com/citations?user=LKUmrCcAAAAJ&hl=en) / [LinkedIn](https://www.linkedin.com/in/b11genius/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/bmitrauncc/)
+[Email](mailto:bhaskar.mitra@pnnl.gov) / [Google Scholar](https://scholar.google.com/citations?user=LKUmrCcAAAAJ&hl=en) / [LinkedIn](https://www.linkedin.com/in/b11genius/) / [GitHub](https://github.com/bmitrauncc/)
 
 ## 👩🏼‍💻 Experience
 
@@ -21,14 +21,17 @@ PNNL is one of the several Department of Energy funded laboratories that works o
 <br><br>
 
 **Postdoctoral Research Fellow** @ [Idaho National Laboratory](https://inl.gov) _(Mar 2020 - Feb 2022)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
+  - Development of case-studies to assess the energy arbitrage of installation of variable renewable generation resources for farmers that helps them to participate in energy markets [Irrigation Viz](https://irrigationviz.pnnl.gov/).
+  - Lead developer for an opensource tool to estimate turbine efficiency and hydropower potential [HydroGenerate](https://github.com/IdahoLabResearch/HydroGenerate)
+  - Study and quantify reports on the impact on hydropower generating units through participation invariable generation. 
+    Development of case studies to discuss participation of hydro power plants in flexible operation.
+    Prepare a report for DOE to issue future calls for participation from the industry.
+  - Hardware-in-the loop simulation to study the effects of penetration EV fast charging stations and interconnection of fast charging station with RTDS for validation
+    
+  - **_Technologies used:_** Python, RTDS, MATLAB/Simulink.
 <br><br>
 
-**Graduate Research** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
+**Graduate Research Assistant** @ [UNC Charlotte](https://charlotte.edu) _(Aug 2015 - Dec 2019)_ <br>
 Early-stage startup focused on automated API testing and NLP.
   - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
   - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
