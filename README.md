@@ -1,20 +1,26 @@
-# Carolyn Stransky
+# Bhaskar Mitra
 
-_Software engineer and journalist based in Berlin 🇩🇪_ <br>
+Staff Scientist @ [Pacific Northwest National Laboratory](https://pnnl.gov) <br>
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:bhaskar.mitra@pnnl.gov) / [Google Scholar](https://scholar.google.com/citations?user=LKUmrCcAAAAJ&hl=en) / [LinkedIn](https://www.linkedin.com/in/b11genius/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/bmitrauncc/)
 
-## 👩🏼‍💻 Engineering Experience
+## 👩🏼‍💻 Experience
 
-**Frontend Engineer** @ [BRYTER](https://bryter.com/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Founding member of BRYTER's design system team and continued to provide support and extend the component library
-  - Wrote code in multiple architecture layers, including the application core and integrations with external services
-  - Implemented a new Vue 3 app using Vite to replace a legacy Vue 2 and Webpack architecture
-  - **_Technologies used:_** Vue, TypeScript, Jest, Testing Library, HTML, CSS, Sass, Vite, Web Components (LitElement).
+<img src="https://github.com/bmitrauncc/bmitrauncc.github.io/raw/files/National_Labs.png?raw=true" align="right" width="450px"/>
+
+**Staff Scientist** @ [PNNL](https://pnnl.gov) _(Feb 2022 - Present)_ <br>
+
+PNNL is one of the several Department of Energy funded laboratories that works on cutting edge research.
+<br clear="left"/>
+  - Harmonic Enhanced Load Modelling (HELM) - Development of non-linear house loads to 
+  study their homogeneous and heterogeneous interaction with distribution transformer [Repo](https://github.com/pnnl/Continual-Load-Modelling-HELM).
+  - Protection Challenges in Transmission System due to High IBR penetration.
+  - High-Power and Flexible Low-Frequency AC Transmission for Renewable Integration.
+  - Assessing the gaps related to Hydropower modelling.
+  - **_Technologies used:_** PSCAD, Python, MATLAB/Simulink, OPAL-RT, OpenPDC.
 <br><br>
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
+**Postdoctoral Research Fellow** @ [INL](https://inl.gov) _(Mar 2020 - Feb 2022)_ <br>
 [Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
   - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
   - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
@@ -22,7 +28,7 @@ No-code platform that enables professionals to build interactive applications.
   - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
 <br><br>
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
+**Graduate Research** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
 Early-stage startup focused on automated API testing and NLP.
   - Built the [website](https://meeshkan.com/) and the initial web app that visualized the test reports
   - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
@@ -54,6 +60,18 @@ API-first infrastructure to create, manage and distribute content.
     - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
     <br><br>
     
+ ## 👩🏼‍🎓 Education
+
+**Ph.D.** in Electrical Engineering<br>
+[UNC Charlotte](https://www.charlotte.edu/) - Charlotte, North Carolina, USA _(Aug 2015 - Dec 2019)_ <br>
+
+**M.S** in Electrical Engineering<br>
+[UNC Charlotte](https://www.charlotte.edu/) - Charlotte, North Carolina, USA _(Aug 2015 - May 2018)_ <br>
+
+**B.Tech** in Electrical Engineering<br>
+[West Bengal University of Technology](https://www.american.edu/) - Kolkata, West Bengal, India _(Aug 2009 - Jun 2013)_
+
+   
 ## 🗞 Journalism Experience
 
 _This section only accounts for work done post-career change._
@@ -154,16 +172,3 @@ Created [Qarma](https://github.com/lcorr8/qarma), an online platform to report a
 🇩🇪 **German**: B1
 <br><br>
 
-## 👩🏼‍🎓 Education
-
-**12-week intensive coding course** focused on full-stack JavaScript<br>
-[SPICED Academy](https://www.spiced-academy.com/) - Berlin, Germany _(Apr 2017 - Jun 2017)_ <br>
-
-**Bachelor of Arts** in Journalism and Media Studies<br>
-[Beloit College](https://www.beloit.edu/) - Beloit, Wisconsin, USA _(2011 - 2015)_
-
-**Washington Semester Program** for Journalism and New Media<br>
-[American University](https://www.american.edu/) - Washington DC, USA _(Fall 2014)_
-
-**International Exchange** studying Political Science<br>
-[Yeditepe Üniversitesi](https://yeditepe.edu.tr/en) - Istanbul, Turkey _(Spring 2013)_
