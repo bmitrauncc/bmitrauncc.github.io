@@ -6,7 +6,7 @@ Staff Scientist @ [Pacific Northwest National Laboratory](https://pnnl.gov) <br>
 
 ## 👩🏼‍💻 Experience
 
-<img src="https://github.com/bmitrauncc/bmitrauncc.github.io/raw/master/files/National_Labs.png?raw=true" align="right" width="450px"/>
+<img src="https://github.com/bmitrauncc/bmitrauncc.github.io/tree/main/files/National_Labs.png?raw=true" align="right" width="450px"/>
 
 **Staff Scientist** @ [PNNL](https://pnnl.gov) _(Feb 2022 - Present)_ <br>
 
