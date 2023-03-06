@@ -53,11 +53,11 @@ The test system was modelled and tested in PSCAD.
 
 **Graduate Research Assistant** @ [UNC Charlotte](https://charlotte.edu) _(Aug 2015 - Dec 2019)_ <br>
 Working as a Research and Teaching assistant working under Professor Badrul Chowdhury.
-  - 
+
   - **_Projects_**
     - Hybrid High Voltage ac/dc System Protection and Controls for Interfacing Off-shore Power Generations with On-shore Grid Phase-II.
     - Hybrid High Voltage ac/dc System Protection and Controls for Interfacing Off-shore Power Generations with On-shore Grid Phase-I.
-    - **_Technologies used:_** 
+    - **_Technologies used:_** PSCAD, FORTRAN, Python, MATLAB/Simulink.
     <br><br>
 
 **Assistant Systems Engineer** @ [Tata Consultancy Services](https://www.tcs.com/) _(Dec 2013 - Jul 2015)_ <br>
@@ -81,17 +81,17 @@ Working as a Research and Teaching assistant working under Professor Badrul Chow
    
 ## 📜 Selected Publications
 _This section only accounts for some selected publications, for full list refer to [Google Scholar](https://scholar.google.com/citations?user=LKUmrCcAAAAJ&hl=en)._
-<br><br>
+<br>
 
 **Journals** <br>
-    - **B. Mitra**, B. Chowdhury and M. Manjrekar, "HVdc Transmission for Access to Off-shore Renewable Energy: A Review of Technology and Fault Detection Techniques," IET Renewable Power Generation, 2018.
-    - **B.Mitra**, B. Chowdhury, and A. Willis,” Protection Coordination for Assembly HVdc Breakers for HVdc Multi-Terminal Grids using Wavelet Transform,” IEEE Systems Journal, 2019.
-    - **B. Mitra**, S. Debnath and B. Chowdhury, “Zonal Isolation of Faults in a MTdc Using Local Measurements,” IEEE Systems Journal, 2021.
-    - **B. Mitra**, S. Debnath, B. Chowdhury, “Fault Location Using the Natural Frequency of Oscillation of Current Discharge in MTdc Networks,” IEEE Access, 2021.
-    - B. A. Bhatti, S. Hanif, J. Alam, **B. Mitra**, R. Kini, D. Wu, "Using energy storage systems to extend the life of hydropower plants," Applied Energy, 2023.
-    - J. Reaves, T. Flavin, **B. Mitra**, Mahantesh K, V. Nagaraju, "Assessment And Application of EEG: A Literature Review", J Appl Bioinforma Comput Biol 10, 2021.
-    - M. Bose, **B. Mitra**, P. Mukherjee, "Mucin signature as a potential tool to predict susceptibility to COVID-19", Physiological reports, 2021.
-    - M. Bose, A. Sanders, C. De, R. Zhou, P. Lala, S. Schwartz, **B. Mitra**, C. Brouwer, P. Mukherjee, "Targeting tumor-associated MUC1 overcomes anoikis-resistance in pancreatic cancer", Translational research, 2023.
+    - **B. Mitra**, B. Chowdhury and M. Manjrekar, "HVdc Transmission for Access to Off-shore Renewable Energy: A Review of Technology and Fault Detection Techniques," IET Renewable Power Generation, 2018. <br>
+    - **B.Mitra**, B. Chowdhury, and A. Willis,” Protection Coordination for Assembly HVdc Breakers for HVdc Multi-Terminal Grids using Wavelet Transform,” IEEE Systems Journal, 2019.<br>
+    - **B. Mitra**, S. Debnath and B. Chowdhury, “Zonal Isolation of Faults in a MTdc Using Local Measurements,” IEEE Systems Journal, 2021.<br>
+    - **B. Mitra**, S. Debnath, B. Chowdhury, “Fault Location Using the Natural Frequency of Oscillation of Current Discharge in MTdc Networks,” IEEE Access, 2021.<br>
+    - B. A. Bhatti, S. Hanif, J. Alam, **B. Mitra**, R. Kini, D. Wu, "Using energy storage systems to extend the life of hydropower plants," Applied Energy, 2023.<br>
+    - J. Reaves, T. Flavin, **B. Mitra**, Mahantesh K, V. Nagaraju, "Assessment And Application of EEG: A Literature Review", J Appl Bioinforma Comput Biol 10, 2021.<br>
+    - M. Bose, **B. Mitra**, P. Mukherjee, "Mucin signature as a potential tool to predict susceptibility to COVID-19", Physiological reports, 2021.<br>
+    - M. Bose, A. Sanders, C. De, R. Zhou, P. Lala, S. Schwartz, **B. Mitra**, C. Brouwer, P. Mukherjee, "Targeting tumor-associated MUC1 overcomes anoikis-resistance in pancreatic cancer", Translational research, 2023.<br>
 <br><br>
 
 **Conferences** <br>
